@@ -25,13 +25,13 @@ header {
 
 .menulink:hover{
     transition: 0.8s;
-    color: darkred;
+    color: darkturquoise;
     font-size: 0.9em;
 }
 
 .logoimg{
-    width: 25%;
-    margin-top: 0px;
+    width: 18%;
+    margin-top: 20px;
     text-align: center;
  }
 
@@ -93,12 +93,12 @@ li{
     width: 100%;
 }
 
-.creatinaimg{
+.contraimg{
     float: right;
     padding-left: 2%;
   }
 
-.wheyimg{
+.relaimg{
     padding-top: 1%;
 }
 
@@ -311,4 +311,8 @@ button {
 
 button:hover {
     background-color: #000000;
+}
+.col-6{
+    padding-top: 2%;
+    margin-bottom: 2%;
 }
